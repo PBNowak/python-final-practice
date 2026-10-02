@@ -6,6 +6,8 @@ import calculator
 
 # Exercise 3: Simple Class and Inheritance
 
+print("=== Student Information ===")
+
 class Person:
     def __init__(self, name, age):
         self.name = name
