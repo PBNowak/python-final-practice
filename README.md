@@ -11,3 +11,6 @@ Clear documentation helps a team understand what the code does and why decisions
 - Exercise 3: Simple Class and Inheritance
 - Exercise 4: Math Quiz with Exception Handling
 - Exercise 8: Simple Calculator Module
+## Testing
+
+The programs were tested with valid input and invalid input, including invalid quiz input and division by zero.
